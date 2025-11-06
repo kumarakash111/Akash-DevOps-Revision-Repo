@@ -1,4 +1,6 @@
 .terraform/
 *.tfstate
 *.tfstate.*
+terraform.tfstate
+terraform.tfstate.backup
 Add .gitignore for Terraform
